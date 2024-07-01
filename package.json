@@ -1,0 +1,19 @@
+{
+  "name": "seminar2nodejs2",
+  "version": "1.0.0",
+  "description": "use function getPersons(size,json_ornot)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node person_generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexolhovskiy/Seminar2NODEJS2.git"
+  },
+  "author": "alex_olhovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexolhovskiy/Seminar2NODEJS2/issues"
+  },
+  "homepage": "https://github.com/alexolhovskiy/Seminar2NODEJS2#readme"
+}
